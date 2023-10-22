@@ -1,6 +1,6 @@
 # student-performance-analysis
 
-This project is basically a analysis of the parental enfluence on the students.
+This project is basically a analysis of the parental influence on the students.
 the data used in the project contains the marital status,parent's education,ethinic group and various parameters based on which this project analyses the outcomes.
 project uses python programming language and libraries like pandas,numpy,matplotlib,seaboarn etc for the analysis and visualization.
 
